@@ -1,5 +1,4 @@
 const { readFile } = require('fs')
-const { get } = require('http')
 
 const getText = (pathFile) => {
 	return new Promise((resolve, reject) => {
