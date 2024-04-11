@@ -1,10 +1,9 @@
-Es posible instalar una dependencia de manera global en nuestro computador para trabajar con ella en múltiples proyectos mediante el comando 'npm i -g', como por ejemplo:
+It is possible to install a dependency globally on your computer to work with it in multiple projects using the command 'npm i -g', for example:
 
 npm i -g nodemon
 
-En este caso, se instalaría nodemon como una dependencia global en nuestro computador y no debería instalarse como dependencia interna dentro de nuestro proyecto.
-Solo bastaría con ejecutar el comando directamente en nuestra consola. 
-Sin embargo, hay que considerar que si dicho proyecto se sube a un repositorio remoto, sería mejor aclarar, en la documentación para cualquier otro usuario,
-la necesidad de instalar la dependencia antes de ejecutar el proyecto. 
-O para evitar este inconveniente, simplemente instalarla de manera interna dentro del proyecto como cualquier otra dependencia.
-
+In this case, nodemon would be installed as a global dependency on your computer and should not be installed as an internal dependency within your project.
+Just run the command directly in our console. 
+However, consider that if such a project is uploaded to a remote repository, it would be better to clarify, in the documentation for any other user,
+the need to install the dependency before running the project. 
+Or to avoid this inconvenience, simply install it internally within the project like any other dependency.
