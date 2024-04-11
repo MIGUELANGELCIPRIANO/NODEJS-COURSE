@@ -1,9 +1,0 @@
-It is possible to install a dependency globally on your computer to work with it in multiple projects using the command 'npm i -g', for example:
-
-npm i -g nodemon
-
-In this case, nodemon would be installed as a global dependency on your computer and should not be installed as an internal dependency within your project.
-Just run the command directly in our console. 
-However, consider that if such a project is uploaded to a remote repository, it would be better to clarify, in the documentation for any other user,
-the need to install the dependency before running the project. 
-Or to avoid this inconvenience, simply install it internally within the project like any other dependency.
