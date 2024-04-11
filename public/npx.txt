@@ -1,0 +1,6 @@
+The 'npx' command allows you to run npm modules without having to install them inside your project or computer. For example:
+
+npx serve folder-name/
+
+With this command, the serve module will be run in the specified folder 'folder-name/'. 
+This avoids the need to install serve globally or as a project dependency.
