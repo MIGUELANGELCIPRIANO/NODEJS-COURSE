@@ -1,0 +1,21 @@
+{
+	"name": "first-node-project",
+	"version": "1.0.0",
+	"description": "New project using node.js",
+	"main": "app.js",
+	"scripts": {
+		"dev": "nodemon ./src/app.js"
+	},
+	"keywords": [
+		"node.js",
+		"project"
+	],
+	"author": "MIGUELANGELCIPRIANO",
+	"license": "ISC",
+	"dependencies": {
+		"colors": "^1.4.0"
+	},
+	"devDependencies": {
+		"nodemon": "^3.1.0"
+	}
+}
