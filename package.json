@@ -1,8 +1,18 @@
 {
-  "dependencies": {
-    "colors": "^1.4.0"
-  },
-  "devDependencies": {
-    "@types/node": "^20.12.7"
-  }
+	"name": "nodejs-course",
+	"version": "1.0.0",
+	"description": "Node.js fundamentals course",
+	"main": "index.js",
+	"type": "module",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"author": "",
+	"license": "ISC",
+	"dependencies": {
+		"colors": "^1.4.0"
+	},
+	"devDependencies": {
+		"@types/node": "^20.12.7"
+	}
 }
