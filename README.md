@@ -28,24 +28,24 @@ npm i
 4. For single files execute the command from the terminal located in ./NODEJS-COURSE.
 
 ```shell
-node "name_file".js
+node "file_name".js
 ```
 
-5. For the `./first_node_project` and `./node_website` folders use the **npm** package manager to install.
-6. Execute the command from the terminal located at ./NODEJS-COURSE/`name_folder`.
+5. For the ./first_node_project and ./node_website folders use the **npm** package manager to install.
+6. Execute the command from the terminal located at ./NODEJS-COURSE/`folder_name`.
 
 ```shell
 npm i
 ```
 
 7. Use the **npm** package manager to run.
-8. Execute the command from the terminal located at ./NODEJS-COURSE/`name_folder`.
+8. Execute the command from the terminal located at ./NODEJS-COURSE/`folder_name`.
 
 ```shell
 npm run dev
 ```
 
-9. For the `./public` folder use the **npx** package executor to run.
+9. For the ./public folder use the **npx** package executor to run.
 10. Execute the command from the terminal located at ./NODEJS-COURSE.
 
 ```shell
